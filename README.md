@@ -1,7 +1,6 @@
 # RandomMap
 Make RandomMap
-## https://github.com/robinxb/Procedural-Generation-Tilemap
-## 참고
+## 참고 https://github.com/robinxb/Procedural-Generation-Tilemap
 
 ## 최소 간선 트리로 연결
 
